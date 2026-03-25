@@ -43,9 +43,9 @@
   }
 }
 
-// Override Minima styles where needed
-.site-header {
-  display: none; // Hide default Minima header since we have custom nav
+// Hide footer
+.site-footer {
+  display: none;
 }
 
 // Power BI embed container - responsive styling
