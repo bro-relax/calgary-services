@@ -7,9 +7,6 @@ description: Power BI Dashboard
 <div class="powerbi-container">
     <iframe title="New_Data Tone Power BI report (1) (1) (1)" src="https://app.powerbi.com/view?r=eyJrIjoiN2M0NTY0YTMtNmYwZC00NmI1LTg4NzAtOTNkMzEyY2U5OGNkIiwidCI6IjBhNzVjMjZmLTUxMjEtNDAxNS05MjliLTMyYzRhMjUwZWU1ZCJ9" frameborder="0" allowFullScreen="true"></iframe>
 </div>
-
-
-<section id="hackathon-overview" class="site-section" data-aos="fade-up">
     <h2>How the Hackathon Works</h2>
     <p>The CPPUG Hackathon brings together Calgary's brightest minds to tackle real business challenges using Microsoft Power Platform. This isn't just a coding competition, it's a collaborative learning experience where beginners and experts work side-by-side to create solutions that matter.</p>
 
